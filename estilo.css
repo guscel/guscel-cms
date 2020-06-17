@@ -1,0 +1,15 @@
+*{
+    margin: 0em;
+    padding: 0em;
+}
+
+input{
+    display: block;
+
+}
+
+.corpo-form{
+    background-color: goldenrod;
+    width: 100%;
+
+}
